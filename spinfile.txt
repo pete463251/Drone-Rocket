@@ -1,0 +1,15 @@
+-------------------------      Sat 01-08-2020 @ 04:20:20  1596252020655
+GPIOs are setup, digital potentiometer is enabled 
+Digital Potentiometer set    Sat 01-08-2020 @ 04:20:40   1596252040850
+maintaining for 15 seconds 
+About to fire Ignition::    Sat 01-08-2020 @ 04:20:55   1596252055885
+Fired Ignition MOSFET::    Sat 01-08-2020 @ 04:20:55   1596252055886
+About to Fire  String Blowing MOSFET:    Sat 01-08-2020 @ 04:20:58  1596252058291
+Fired String Blowing MOSFET:    Sat 01-08-2020 @ 04:20:58  1596252058291
+firing ejection charge now
+Fired Ejection Charge MOSFET:    Sat 01-08-2020 @ 04:21:01   1596252061299
+winding down potentiometer  
+logging completed
+
+
+
